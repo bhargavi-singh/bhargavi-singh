@@ -3,13 +3,14 @@
 
 - 📫 How to reach me **bhargavisingh700@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/BHARGAVI_CV%20(2)%20(1).pdf](file:///C:/Users/hp/Downloads/BHARGAVI_CV%20(2)%20(1).pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13yP0fl5gj28F0V776RM3I8zeLOQHqiGD/view?usp=drive_link](https://drive.google.com/file/d/13yP0fl5gj28F0V776RM3I8zeLOQHqiGD/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhargavi-singh-33838a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargavi-singh-33838a20b" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhargavi_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhargavi_singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhargavi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargavi_singh" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/geek07freak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geek07freak/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
