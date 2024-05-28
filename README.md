@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bhargavi-singh-33838a20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargavi-singh-33838a20b" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhargavi_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhargavi_singh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhargavi_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargavi_singh" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/LazyyCode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargavi_singh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/geek07freak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geek07freak/" height="30" width="40" /></a>
 </p>
 
