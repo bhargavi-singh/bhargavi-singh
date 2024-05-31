@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
 </p>
 <br>
-<h2>Profiles</h2>
+<h2>Connect with me</h2>
 
 
 <p align="left">
@@ -47,7 +47,7 @@
 </p>
 <br>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Profiles</h2>
 <p align="left">
 <a href="https://www.codechef.com/users/bhargavi_singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhargavi_singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/LazyyCode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhargavi_singh" height="30" width="40" /></a>
