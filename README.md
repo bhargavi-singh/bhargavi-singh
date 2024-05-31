@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargavi Singh</h1>
 <h3 align="center">A passionate FullStack Developer in MERN Stack</h3>
 
-- 📫 How to reach me bhargavisingh700@gmail.com
+- 📫 How to reach me **bhargavisingh700@gmail.com**
 
 - 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/13yP0fl5gj28F0V776RM3I8zeLOQHqiGD/view)
 
