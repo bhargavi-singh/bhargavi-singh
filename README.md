@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **bhargavisingh700@gmail.com**
 
-- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/13yP0fl5gj28F0V776RM3I8zeLOQHqiGD/view)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1mjk3TiEiBB5jW3efdBQFsdON3D4e4ulE/view)
 
 <br>
 <p align="left">
